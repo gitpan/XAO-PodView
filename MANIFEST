@@ -1,7 +1,9 @@
 CHANGES
+LICENSE
 MANIFEST
 MANIFEST.SKIP
 README
+Makefile.PL
 PodView.pm
 test.pl
  ------------------------
